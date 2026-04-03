@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Campus Connect</string>
+    
+    <!-- Auth Strings -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Login to your account</string>
+    <string name="create_account">Create Account</string>
+    <string name="signup_subtitle">Sign up to get started</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_subtitle">Enter your email to receive a reset link</string>
+    
+    <!-- Common Strings -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="send_reset_email">Send Reset Email</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    
+    <!-- Dashboard Strings -->
+    <string name="welcome">Welcome, %s</string>
+    <string name="notes">Notes</string>
+    <string name="attendance">Attendance</string>
+    <string name="announcements">Announcements</string>
+    <string name="profile">Profile</string>
+    
+    <!-- Notes Strings -->
+    <string name="upload_note">Upload Note</string>
+    <string name="select_pdf">Select PDF</string>
+    <string name="title">Title</string>
+    <string name="subject">Subject</string>
+    <string name="semester">Semester</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="search_notes">Search notes...</string>
+    <string name="no_notes">No notes yet. Tap the + button to upload your first note</string>
+    <string name="no_search_results">No notes match your search. Try different keywords</string>
+    <string name="note_uploaded">Note uploaded successfully</string>
+    <string name="note_deleted">Note deleted successfully</string>
+    <string name="note_downloaded">Note downloaded to Downloads folder</string>
+    
+    <!-- Attendance Strings -->
+    <string name="add_subject">Add Subject</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="total_classes">Total Classes</string>
+    <string name="attended_classes">Attended Classes</string>
+    <string name="update_attendance">Update Attendance</string>
+    <string name="no_subjects">No subjects added yet. Tap + to add your first subject</string>
+    <string name="subject_added">Subject added successfully</string>
+    <string name="attendance_updated">Attendance updated successfully</string>
+    <string name="subject_deleted">Subject deleted successfully</string>
+    <string name="delete_subject_confirm">Are you sure you want to delete this subject?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="low_attendance_warning">Your attendance is below 75%%</string>
+    <string name="classes_needed">Attend %d more classes to reach 75%%</string>
+    
+    <!-- Error Messages -->
+    <string name="error_network">Network error. Please check your connection and try again</string>
+    <string name="error_generic">Something went wrong. Please try again</string>
+    <string name="error_invalid_email">Please enter a valid email</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="error_empty_fields">Please fill in all fields</string>
+    <string name="error_subject_required">Subject name is required</string>
+    <string name="error_subject_duplicate">A subject with this name already exists</string>
+    <string name="error_attended_exceeds_total">Attended classes cannot exceed total classes</string>
+</resources>
