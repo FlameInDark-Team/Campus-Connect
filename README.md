@@ -13,11 +13,44 @@
 
 *A modern, feature-rich Android application built with cutting-edge technologies to streamline college life.*
 
-[Features](#-features) • [Tech Stack](#-tech-stack) • [Architecture](#-architecture) • [Setup](#-quick-start) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
+[Download](#-download) • [Features](#-features) • [Tech Stack](#-tech-stack) • [Architecture](#-architecture) • [Setup](#-quick-start) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
 
 ---
 
 </div>
+
+## 📥 Download
+
+<div align="center">
+
+### 🚀 Latest Release: v1.0.0
+
+[![Download APK](https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/FlameInDark-Team/Campus-Connect/releases/download/v1.0.0/app-debug.apk)
+[![GitHub Release](https://img.shields.io/github/v/release/FlameInDark-Team/Campus-Connect?style=for-the-badge)](https://github.com/FlameInDark-Team/Campus-Connect/releases)
+[![Downloads](https://img.shields.io/github/downloads/FlameInDark-Team/Campus-Connect/total?style=for-the-badge)](https://github.com/FlameInDark-Team/Campus-Connect/releases)
+
+**[📱 Download Latest APK](https://github.com/FlameInDark-Team/Campus-Connect/releases/latest/download/app-debug.apk)** | **[📋 View All Releases](https://github.com/FlameInDark-Team/Campus-Connect/releases)**
+
+</div>
+
+### Installation Instructions
+
+1. **Download** the APK file from the link above
+2. **Enable** "Install from Unknown Sources" on your Android device:
+   - Go to **Settings** → **Security** → Enable **Unknown Sources**
+   - Or **Settings** → **Apps** → **Special Access** → **Install Unknown Apps** → Select your browser → Allow
+3. **Open** the downloaded APK file
+4. **Tap Install** and wait for installation to complete
+5. **Launch** Campus Connect and enjoy! 🎉
+
+### System Requirements
+
+- **Android Version**: 7.0 (Nougat) or higher (API 24+)
+- **Storage**: ~20 MB for app + space for your notes
+- **RAM**: 2 GB minimum (4 GB recommended)
+- **Internet**: Required only for authentication (first login)
+
+---
 
 ## 📱 Overview
 
